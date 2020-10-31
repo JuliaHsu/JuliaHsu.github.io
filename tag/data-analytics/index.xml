@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analytics | Julia H.P. Hsu</title>
-    <link>JuliaHsu.github.io/tag/data-analytics/</link>
-      <atom:link href="JuliaHsu.github.io/tag/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://JuliaHsu.github.io/tag/data-analytics/</link>
+      <atom:link href="https://JuliaHsu.github.io/tag/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analytics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Julia H.P. Hsu</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Data Analytics</title>
-      <link>JuliaHsu.github.io/tag/data-analytics/</link>
+      <link>https://JuliaHsu.github.io/tag/data-analytics/</link>
     </image>
     
     <item>
       <title>Benchmarking Local Event Data Disambiguation: Data Fragmentation across Event-based Social Networks</title>
-      <link>JuliaHsu.github.io/project/event_disambiguation/</link>
+      <link>https://JuliaHsu.github.io/project/event_disambiguation/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>JuliaHsu.github.io/project/event_disambiguation/</guid>
+      <guid>https://JuliaHsu.github.io/project/event_disambiguation/</guid>
       <description>&lt;p&gt;Benchmarking Local Event Data Disambiguation: Data Fragmentation across Event-based Social Networks&lt;/p&gt;
 </description>
     </item>
