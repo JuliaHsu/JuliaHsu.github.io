@@ -38,17 +38,12 @@
   </url>
   
   <url>
+    <loc>https://JuliaHsu.github.io/tag/community-data-analytics/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/computational-modeling/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/course-project/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/data-analytics/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +63,12 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/tag/research/</loc>
+    <loc>https://JuliaHsu.github.io/tag/social-media-data-analytics/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://JuliaHsu.github.io/tags/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/urban-data/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,42 +88,17 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://JuliaHsu.github.io/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/author/julia-hsin-ping-hsu/</loc>
+    <loc>https://JuliaHsu.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/post/jupyter/</loc>
+    <loc>https://JuliaHsu.github.io/author/julia-hsin-ping-hsu/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -145,11 +110,6 @@
   <url>
     <loc>https://JuliaHsu.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/project/cs584/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -188,28 +148,47 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://JuliaHsu.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://JuliaHsu.github.io/tag/big-data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/civic-technology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/community-informatics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/author/jieshu-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/author/myeong-lee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/quantitative-study/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/short-paper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/publication/edm_qos/</loc>
   </url>
   
 </urlset>
