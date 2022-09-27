@@ -5,12 +5,30 @@
     <link>https://JuliaHsu.github.io/tag/machine-learning/</link>
       <atom:link href="https://JuliaHsu.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Julia H.P. Hsu</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Julia H.P. Hsu</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://JuliaHsu.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>AI for AI: Toward Community-level Human-AI Collaborations in Local Meetups</title>
+      <link>https://JuliaHsu.github.io/project/4va_meetup/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/4va_meetup/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://cil.cec.gmu.edu/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project description&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Information Deserts Visible: Computational Models, Disparities in Civic Technology Use, and Urban Decision Making</title>
+      <link>https://JuliaHsu.github.io/project/nsfboston311/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/nsfboston311/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://myeonglee.com/projects/making-information-deserts-visible-computational-models-disparities-civic-technology-use&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project description&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Benchmarking Local Event Data Disambiguation: Data Fragmentation across Event-based Social Networks</title>
