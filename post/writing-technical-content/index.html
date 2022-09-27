@@ -361,8 +361,6 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   
   
-    <script>window.wcDarkLightEnabled = true;</script>
-  
   
     <script>const isSiteThemeDark = false;</script>
   
@@ -602,23 +600,6 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
       
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-moon" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -754,7 +735,7 @@ data.head()
 <p>Demo:</p>
 
 
-<div id="chart-657328941" class="chart pb-3" style="max-width: 100%; margin: auto;"></div>
+<div id="chart-135247896" class="chart pb-3" style="max-width: 100%; margin: auto;"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -764,7 +745,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-657328941', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-135247896', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
