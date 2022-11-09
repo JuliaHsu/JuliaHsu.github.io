@@ -1,124 +1,210 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://JuliaHsu.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/project/4va_meetup/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/community-data-analytics/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/human-ai-collaboration/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/machine-learning/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/project/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/social-media-data-analytics/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tags/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/civic-technology/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/computational-modeling/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/project/nsfboston311/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/project/event_disambiguation/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/project/ait722/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/author/julia-hsin-ping-hsu/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/publication-type/1/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/big-data/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/community-informatics/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/author/jieshu-wang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/author/myeong-lee/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/publication_types/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/publication/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/quantitative-study/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/short-paper/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/publication/edm_qos/</loc>
   </url>
+  
 </urlset>
