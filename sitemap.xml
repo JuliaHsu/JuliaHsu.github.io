@@ -33,12 +33,47 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/project/4va_meetup/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://JuliaHsu.github.io/tag/civic-technology/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://JuliaHsu.github.io/tag/community-data-analytics/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/computational-modeling/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/project/vbpd/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/project/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tags/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/project/dass/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/sdoh/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/project/4va_meetup/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,28 +88,8 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/project/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://JuliaHsu.github.io/tag/social-media-data-analytics/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tags/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/civic-technology/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/computational-modeling/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,33 +108,8 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://JuliaHsu.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/author/julia-hsin-ping-hsu/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,38 +123,15 @@
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://JuliaHsu.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://JuliaHsu.github.io/post/jupyter/</loc>
   </url>
   
   <url>
-    <loc>https://JuliaHsu.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://JuliaHsu.github.io/post/writing-technical-content/</loc>
   </url>
   
   <url>
@@ -172,7 +139,15 @@
   </url>
   
   <url>
+    <loc>https://JuliaHsu.github.io/authors/</loc>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/big-data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/categories/</loc>
   </url>
   
   <url>
@@ -184,7 +159,15 @@
   </url>
   
   <url>
+    <loc>https://JuliaHsu.github.io/author/julia-hsin-ping-hsu/</loc>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/author/myeong-lee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/post/</loc>
   </url>
   
   <url>
