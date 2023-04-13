@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noseong Park | Julia H.P. Hsu</title>
+    <link>https://JuliaHsu.github.io/author/noseong-park/</link>
+      <atom:link href="https://JuliaHsu.github.io/author/noseong-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noseong Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Julia H.P. Hsu</copyright>
+    <image>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Noseong Park</title>
+      <link>https://JuliaHsu.github.io/author/noseong-park/</link>
+    </image>
+    
+    <item>
+      <title>Two-sided Cultural Niches: Topic Overlap, Geospatial Correlation, and Local Group Activities on Event-based Social Networks</title>
+      <link>https://JuliaHsu.github.io/publication/c_t_2023_meetup_topicoverlap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/publication/c_t_2023_meetup_topicoverlap/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
