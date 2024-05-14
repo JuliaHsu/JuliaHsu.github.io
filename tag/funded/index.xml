@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funded | Julia H.P. Hsu</title>
+    <link>https://JuliaHsu.github.io/tag/funded/</link>
+      <atom:link href="https://JuliaHsu.github.io/tag/funded/index.xml" rel="self" type="application/rss+xml" />
+    <description>Funded</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Julia H.P. Hsu</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Funded</title>
+      <link>https://JuliaHsu.github.io/tag/funded/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Information Ecology: Understanding the Fragmentation of Disability Service Information</title>
+      <link>https://JuliaHsu.github.io/project/vbpd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/vbpd/</guid>
+      <description>&lt;p&gt;I am the co-author of the grant proposal, and participate in this project as a graduate research assistant under Dr. Myeong Lee&amp;rsquo;s supervision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI for AI: Toward Community-level Human-AI Collaborations in Local Meetups</title>
+      <link>https://JuliaHsu.github.io/project/4va_meetup/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/4va_meetup/</guid>
+      <description>&lt;p&gt;I participated in this project under Dr. Myeong Lee&amp;rsquo;s supervision. I generated various types of features from Meetup data and built ML models to predict group activity level and event participation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Information Deserts Visible: Computational Models, Disparities in Civic Technology Use, and Urban Decision Making</title>
+      <link>https://JuliaHsu.github.io/project/nsfboston311/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/nsfboston311/</guid>
+      <description>&lt;p&gt;I participated in this project under Dr. Myeong Lee&amp;rsquo;s supervision. I built ML models to identify government employees and led the web visualization development team.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
