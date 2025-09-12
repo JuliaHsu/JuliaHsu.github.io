@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://JuliaHsu.github.io/publication-type/2/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/authors/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,6 +58,16 @@
   </url>
   
   <url>
+    <loc>https://JuliaHsu.github.io/tag/full-paper/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/geospatial/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/information-management/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -63,7 +78,17 @@
   </url>
   
   <url>
+    <loc>https://JuliaHsu.github.io/publication/social_work_2025/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://JuliaHsu.github.io/tag/llm/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JuliaHsu.github.io/tag/machine-learning/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,16 +129,6 @@
   
   <url>
     <loc>https://JuliaHsu.github.io/tag/big-data/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/full-paper/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/geospatial/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -194,11 +209,6 @@
   
   <url>
     <loc>https://JuliaHsu.github.io/tag/human-ai-collaboration/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JuliaHsu.github.io/tag/machine-learning/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url>
   
