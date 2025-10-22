@@ -144,6 +144,15 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>SAFETI: Strategic Analysis for Fine-granular Injury and Fatality PrEvenTion Insight</title>
+      <link>https://JuliaHsu.github.io/project/safeti/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/safeti/</guid>
+      <description>&lt;p&gt;Mentored graduate and undergraduate researchers on data analysis and modeling, and designed and implemented deep learning models to predict occupational injuries and fatalities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Evaluation of GPT-4V for Transcribing the Urban Renewal Hand-Written Collection</title>
       <link>https://JuliaHsu.github.io/publication/dh2024_urban_renewal/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
@@ -190,11 +199,11 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Mapping Information Ecology: Understanding the Fragmentation of Disability Service Information</title>
+      <title>Mapping Information Ecology: Understanding the Fragmentation of Disability Service Information </title>
       <link>https://JuliaHsu.github.io/project/vbpd/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://JuliaHsu.github.io/project/vbpd/</guid>
-      <description>&lt;p&gt;I am the co-author of the grant proposal, and participate in this project as a graduate research assistant under Dr. Myeong Lee&amp;rsquo;s supervision.&lt;/p&gt;
+      <description>&lt;p&gt;I co-authored the grant proposal, developed an LLM-assisted framework to analyze large-scale survey data on disability information sources, and implemented computational network analysis to map information fragmentation.&lt;/p&gt;
 </description>
     </item>
     
@@ -203,7 +212,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>https://JuliaHsu.github.io/project/dass/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://JuliaHsu.github.io/project/dass/</guid>
-      <description>&lt;p&gt;I participate in this project as a graduate research assistant under Dr. Myeong Lee&amp;rsquo;s supervision.&lt;/p&gt;
+      <description>&lt;p&gt;Contributed as a graduate research assistant to data analysis.&lt;/p&gt;
 </description>
     </item>
     
@@ -235,7 +244,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>https://JuliaHsu.github.io/project/4va_meetup/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://JuliaHsu.github.io/project/4va_meetup/</guid>
-      <description>&lt;p&gt;I participated in this project under Dr. Myeong Lee&amp;rsquo;s supervision. I generated various types of features from Meetup data and built ML models to predict group activity level and event participation.&lt;/p&gt;
+      <description>&lt;p&gt;Applied data analytics and machine learning techniques to model local group gathering dynamics and predict group activity and event participation.&lt;/p&gt;
 </description>
     </item>
     
@@ -244,7 +253,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>https://JuliaHsu.github.io/project/nsfboston311/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://JuliaHsu.github.io/project/nsfboston311/</guid>
-      <description>&lt;p&gt;I participated in this project under Dr. Myeong Lee&amp;rsquo;s supervision. I built ML models to identify government employees and led the web visualization development team.&lt;/p&gt;
+      <description>&lt;p&gt;Conducted analytical research on residents’ reporting behavior and led the web visualization system development team under the guidance of Dr. Myeong Lee.&lt;/p&gt;
 </description>
     </item>
     
