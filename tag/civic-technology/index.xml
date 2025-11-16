@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Technology | Julia H.P. Hsu</title>
+    <link>https://JuliaHsu.github.io/tag/civic-technology/</link>
+      <atom:link href="https://JuliaHsu.github.io/tag/civic-technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Civic Technology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Julia H.P. Hsu</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Civic Technology</title>
+      <link>https://JuliaHsu.github.io/tag/civic-technology/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Information Ecology: Understanding the Fragmentation of Disability Service Information </title>
+      <link>https://JuliaHsu.github.io/project/vbpd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/vbpd/</guid>
+      <description>&lt;p&gt;I co-authored the grant proposal, developed an LLM-assisted framework to analyze large-scale survey data on disability information sources, and implemented computational network analysis to map information fragmentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring How Convergence Methods Foster Shared Accountability to Reveal, Map, and Mitigate the Sources and Dynamics of Bias across Social Service Provisioning Systems</title>
+      <link>https://JuliaHsu.github.io/project/dass/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/dass/</guid>
+      <description>&lt;p&gt;Contributed as a graduate research assistant to data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards an Expectation-Oriented Model of Public Service Quality: A Preliminary Study of NYC 311</title>
+      <link>https://JuliaHsu.github.io/publication/edm_qos/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/publication/edm_qos/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Information Deserts Visible: Computational Models, Disparities in Civic Technology Use, and Urban Decision Making</title>
+      <link>https://JuliaHsu.github.io/project/nsfboston311/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/nsfboston311/</guid>
+      <description>&lt;p&gt;Conducted analytical research on residents’ reporting behavior and led the web visualization system development team under the guidance of Dr. Myeong Lee.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

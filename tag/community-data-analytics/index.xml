@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Data Analytics | Julia H.P. Hsu</title>
+    <link>https://JuliaHsu.github.io/tag/community-data-analytics/</link>
+      <atom:link href="https://JuliaHsu.github.io/tag/community-data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Community Data Analytics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Julia H.P. Hsu</copyright><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Community Data Analytics</title>
+      <link>https://JuliaHsu.github.io/tag/community-data-analytics/</link>
+    </image>
+    
+    <item>
+      <title>SAFETI: Strategic Analysis for Fine-granular Injury and Fatality PrEvenTion Insight</title>
+      <link>https://JuliaHsu.github.io/project/safeti/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/safeti/</guid>
+      <description>&lt;p&gt;Mentored graduate and undergraduate researchers on data analysis and modeling, and designed and implemented deep learning models to predict occupational injuries and fatalities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping Information Ecology: Understanding the Fragmentation of Disability Service Information </title>
+      <link>https://JuliaHsu.github.io/project/vbpd/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/vbpd/</guid>
+      <description>&lt;p&gt;I co-authored the grant proposal, developed an LLM-assisted framework to analyze large-scale survey data on disability information sources, and implemented computational network analysis to map information fragmentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring How Convergence Methods Foster Shared Accountability to Reveal, Map, and Mitigate the Sources and Dynamics of Bias across Social Service Provisioning Systems</title>
+      <link>https://JuliaHsu.github.io/project/dass/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/dass/</guid>
+      <description>&lt;p&gt;Contributed as a graduate research assistant to data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI for AI: Toward Community-level Human-AI Collaborations in Local Meetups</title>
+      <link>https://JuliaHsu.github.io/project/4va_meetup/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/4va_meetup/</guid>
+      <description>&lt;p&gt;Applied data analytics and machine learning techniques to model local group gathering dynamics and predict group activity and event participation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Information Deserts Visible: Computational Models, Disparities in Civic Technology Use, and Urban Decision Making</title>
+      <link>https://JuliaHsu.github.io/project/nsfboston311/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/nsfboston311/</guid>
+      <description>&lt;p&gt;Conducted analytical research on residents’ reporting behavior and led the web visualization system development team under the guidance of Dr. Myeong Lee.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Local Event Data Disambiguation: Data Fragmentation across Event-based Social Networks</title>
+      <link>https://JuliaHsu.github.io/project/event_disambiguation/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/event_disambiguation/</guid>
+      <description>&lt;p&gt;Benchmarking Local Event Data Disambiguation: Data Fragmentation across Event-based Social Networks&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
