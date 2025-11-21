@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human-AI Collaboration | Julia H.P. Hsu</title>
+    <link>https://JuliaHsu.github.io/tag/human-ai-collaboration/</link>
+      <atom:link href="https://JuliaHsu.github.io/tag/human-ai-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human-AI Collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Julia H.P. Hsu</copyright><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JuliaHsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Human-AI Collaboration</title>
+      <link>https://JuliaHsu.github.io/tag/human-ai-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>SAFETI: Strategic Analysis for Fine-granular Injury and Fatality PrEvenTion Insight</title>
+      <link>https://JuliaHsu.github.io/project/safeti/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/safeti/</guid>
+      <description>&lt;p&gt;Mentored graduate and undergraduate researchers on data analysis and modeling, and designed and implemented deep learning models to predict occupational injuries and fatalities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI for AI: Toward Community-level Human-AI Collaborations in Local Meetups</title>
+      <link>https://JuliaHsu.github.io/project/4va_meetup/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://JuliaHsu.github.io/project/4va_meetup/</guid>
+      <description>&lt;p&gt;Applied data analytics and machine learning techniques to model local group gathering dynamics and predict group activity and event participation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
