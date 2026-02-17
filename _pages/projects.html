@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Participation in Funded Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+Below is a list of funded research projects in which I participated as a Graduate Research Assistant at the Community Informatics Lab, George Mason University.
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
