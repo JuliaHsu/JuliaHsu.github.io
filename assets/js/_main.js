@@ -13,6 +13,7 @@ let determineThemeSetting = () => {
 // "system", the computed theme is determined based on the user's system preference.
 let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
+  themeSetting = "light";
   if (themeSetting != "system") {
     return themeSetting;
   }
@@ -91,13 +92,14 @@ $(document).ready(function () {
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
   // If the user hasn't chosen a theme, follow the OS preference
-  setTheme();
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
+  localStorage.removeItem("theme");
+  setTheme("light");
+  // window.matchMedia('(prefers-color-scheme: dark)')
+  //       .addEventListener("change", (e) => {
+  //         if (!localStorage.getItem("theme")) {
+  //           setTheme(e.matches ? "dark" : "light");
+  //         }
+  //       });
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
