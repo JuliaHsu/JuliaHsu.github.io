@@ -93,12 +93,12 @@ $(document).ready(function () {
   // If the user hasn't chosen a theme, follow the OS preference
   localStorage.removeItem("theme");
   setTheme("light");
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
+  // window.matchMedia('(prefers-color-scheme: dark)')
+  //       .addEventListener("change", (e) => {
+  //         if (!localStorage.getItem("theme")) {
+  //           setTheme(e.matches ? "dark" : "light");
+  //         }
+  //       });
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
