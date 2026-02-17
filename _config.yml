@@ -23,7 +23,7 @@ repository               : "juliahsu/juliahsu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : JuliaHsu.JPG"
+  avatar           : JuliaHsu.jpg"
   name             : "Julia Hsin-Ping Hsu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Information Technology"
