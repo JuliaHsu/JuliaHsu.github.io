@@ -5,6 +5,8 @@ collection: projects
 type: projects
 permalink: /projects/2021-nsf-civic-311
 location: "Community Informatics Lab, George Mason University"
+share: false
+
 ---
 This project is funded by [NSF CIVIC Innovation Challenge Stage 1 (#2043900) ](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2043900&HistoricalAwards=false).
 

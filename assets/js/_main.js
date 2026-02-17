@@ -12,7 +12,8 @@ let determineThemeSetting = () => {
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
 // "system", the computed theme is determined based on the user's system preference.
 let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
+  // let themeSetting = determineThemeSetting();
+  let themeSetting = "light";
   if (themeSetting != "system") {
     return themeSetting;
   }

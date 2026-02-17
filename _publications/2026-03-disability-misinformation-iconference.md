@@ -10,6 +10,8 @@ venue: ' iConference Proceedings (forthcoming)'
 # paperurl: 'https://doi.org/10.1145/3593743.3593758'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Prazak, I., Padovani, L., Lim, Y., Hsu, J. H.-P. & Lee, M. Disability Misinformation on Facebook: A Comparison of LLM-based Fact-Checking Tools in iConference 2026 Proceedings (2026).'
+share: false
+
 ---
 ![Disabiity Misnformation](/images/publication/2026_iconference_disability_misinformation.png)
 # Abstract

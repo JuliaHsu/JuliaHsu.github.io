@@ -9,6 +9,8 @@ venue: 'Cities'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1016/j.cities.2025.106530'
 citation: 'Hsu, J. H. P., Mahabir, R., Gonzales, V., Gkountouna, O., Hilal, A., & Lee, M. (2026). Predicting the success of local gatherings: A comparison of organizer-and participant-side success in Meetup. Cities, 169, 106530.'
+share: false
+
 ---
 ![Meetup Cities](/images/publication/2026_cities_meetup.png)
 

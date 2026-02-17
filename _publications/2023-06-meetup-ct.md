@@ -8,6 +8,8 @@ date: 2023-06-01
 venue: 'Communities and Technologies (C&T ‘23)'
 paperurl: 'https://doi.org/10.1145/3593743.3593758'
 citation: 'Hsu, J. H. P., Shin, H., Park, N., & Lee, M. (2023, May). Two-sided Cultural Niches: Topic Overlap, Geospatial Correlation, and Local Group Activities on Event-based Social Networks. In Proceedings of the 11th International Conference on Communities and Technologies (pp. 54-63).'
+share: false
+
 ---
 
 # Abstract

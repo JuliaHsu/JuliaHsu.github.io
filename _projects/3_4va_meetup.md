@@ -5,6 +5,8 @@ collection: projects
 type: projects
 permalink: /projects/2021-4va-meetup
 location: "Community Informatics Lab, George Mason University"
+share: false
+
 ---
 This project is funded by [4VA](https://4va.gmu.edu/grants/).
 

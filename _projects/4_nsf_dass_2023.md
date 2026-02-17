@@ -5,6 +5,8 @@ collection: projects
 type: projects
 permalink: /projects/2023-nsf-dass
 location: "Community Informatics Lab, George Mason University"
+share: false
+
 ---
 This project is funded by [NSF DASS Program (#2217706)](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2217706&HistoricalAwards=false).
 

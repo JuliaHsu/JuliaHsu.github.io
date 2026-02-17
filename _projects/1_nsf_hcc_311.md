@@ -5,6 +5,8 @@ collection: projects
 type: projects
 permalink: /projects/2020-nsf-hcc-311
 location: "Community Informatics Lab, George Mason University"
+share: false
+
 ---
 This project is funded by [NSF HCC Program (#1816763)](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1816763).
 

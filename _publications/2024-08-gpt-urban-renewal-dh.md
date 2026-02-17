@@ -8,6 +8,8 @@ date: 2024-08-01
 venue: "Digital Humanities (DH'24)"
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Lee, M. & Hsu, J. H.-P. An Evaluation of GPT-4V for Transcribing the Urban Renewal Hand-Written Collection in Digital Humanities (DH ’24) (2024)'
+share: false
+
 ---
 
 # Abstract
