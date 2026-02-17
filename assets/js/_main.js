@@ -5,7 +5,7 @@
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
 let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("light");
+  let themeSetting = localStorage.getItem("theme");
   return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
 };
 
@@ -42,7 +42,7 @@ let setTheme = (theme) => {
 // Toggle the theme manually
 var toggleTheme = () => {
   const current_theme = $("html").attr("data-theme");
-  const new_theme = current_theme === "dark" ? "light" : "dark";
+  const new_theme = current_theme === "dark" ? "light" : "light";
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
 };
