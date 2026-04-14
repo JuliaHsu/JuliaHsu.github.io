@@ -18,6 +18,7 @@ I am currently a Graduate Research Assistant working with [Dr. Myeong Lee](https
 
 News & Events
 ======
+- [Apr. 2026] Presented our paper, “Disability Misinformation on Facebook: A Comparison of LLM-based Fact-Checking Tools,” at iConference 2026 in Edinburgh, U.K.
 - [Jan. 2026] Thrilled to share that I successfully defended my doctoral dissertation!
 - [Nov. 2025] Presented my paper “From Open-Ended Text to Taxonomy: An LLM-Based Framework for Information Sources for Disability Services” at ASI&ST 2025!
 - [Nov. 2025] Participated in AI in Public Sector and Doctor Colloquium at ASI&ST 2025.
