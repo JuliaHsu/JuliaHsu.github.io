@@ -10,14 +10,17 @@ I am a Ph.D. Candidate in Information Technology with a concentration in Informa
 
 I am currently a Graduate Research Assistant working with [Dr. Myeong Lee](https://myeonglee.com/) at the [Community Informatics Lab](https://cil.cec.gmu.edu/), where I collaborate on projects that leverage computational approaches to address societal challenges.
 
-🚀 *I'm on the 2026 job market and exploring both academic and industry roles. I’m happy to connect and discuss my work and potential opportunities!*
+*I will begin as a postdoctoral researcher in the Department of Department of Health Administration, Policy and Informatics at GMU in August 2026*
+
+<!-- 🚀 *I'm on the 2026 job market and exploring both academic and industry roles. I’m happy to connect and discuss my work and potential opportunities!* -->
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_HPH_v2_022026.pdf" class="btn btn--primary">Download my CV</a>
+  <a href="{{ base_path }}/files/CV_HPH_052026.pdf" class="btn btn--primary">Download my CV</a>
 </div>
 
 News & Events
 ======
+- [May 2026] Pleased to share that I have been conferred the Ph.D. in Information Technology!
 - [Apr. 2026] Presented our paper, “Disability Misinformation on Facebook: A Comparison of LLM-based Fact-Checking Tools,” at iConference 2026 in Edinburgh, U.K.
 - [Jan. 2026] Thrilled to share that I successfully defended my doctoral dissertation!
 - [Nov. 2025] Presented my paper “From Open-Ended Text to Taxonomy: An LLM-Based Framework for Information Sources for Disability Services” at ASI&ST 2025!

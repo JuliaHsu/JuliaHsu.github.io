@@ -106,5 +106,5 @@ Informatics Lab, GMU
 * Currently signed in to 43 different slack teams -->
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_HPH_v2_022026.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV_HPH_052026.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
