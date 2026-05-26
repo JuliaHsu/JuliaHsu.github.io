@@ -10,7 +10,7 @@ I am a Ph.D. Candidate in Information Technology with a concentration in Informa
 
 I am currently a Graduate Research Assistant working with [Dr. Myeong Lee](https://myeonglee.com/) at the [Community Informatics Lab](https://cil.cec.gmu.edu/), where I collaborate on projects that leverage computational approaches to address societal challenges.
 
-*I will begin as a postdoctoral researcher in the Department of Department of Health Administration, Policy and Informatics at GMU in August 2026*
+*I will begin as a postdoctoral researcher in the Department of Department of Health Administration, Policy and Informatics at GMU in August 2026!*
 
 <!-- 🚀 *I'm on the 2026 job market and exploring both academic and industry roles. I’m happy to connect and discuss my work and potential opportunities!* -->
 
