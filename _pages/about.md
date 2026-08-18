@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Candidate in Information Technology with a concentration in Information Sciences and Technology at the [School of Computing](https://computing.gmu.edu/), [George Mason University](https://www.gmu.edu/). My research focuses on Computational Social Sciences and Information Sciences, where I apply data-driven and computational methods to study social phenomena and improve information access. My broader interests include Computational Social Sciences, AI for social good, Community Informatics, Civic Technology, and Health Informatics.
 
-I am currently a Graduate Research Assistant working with [Dr. Myeong Lee](https://myeonglee.com/) at the [Community Informatics Lab](https://cil.cec.gmu.edu/), where I collaborate on projects that leverage computational approaches to address societal challenges.
+I am a Postdoctoral Researcher in Health Informatics in the [Department of Health Administration, Policy and Informatics](https://hapi.gmu.edu/) at [George Mason University](https://www.gmu.edu/), mentored by [Dr. Alicia Hong](https://yanaliciahong.com/). I received my Ph.D. in [Information Technology](https://ist.gmu.edu/) from [George Mason University](https://www.gmu.edu/) in May 2026, where I was advised by [Dr. Myeong Lee](https://myeonglee.com/) in the [Community Informatics Lab](https://cil.cec.gmu.edu/).
 
-*I will begin as a postdoctoral researcher in the Department of Department of Health Administration, Policy and Informatics at GMU in August 2026!*
+My research spans Health Informatics, Digital Health Interventions, Information Sciences, and Computational Social Science. I apply data-driven and computational methods to study social and health-related phenomena, understand how people access and use information, and develop approaches to improve information access and health outcomes. My broader interests include AI for social good, community informatics, digital health, and human-centered applications of emerging technologies.
+
+
 
 <!-- 🚀 *I'm on the 2026 job market and exploring both academic and industry roles. I’m happy to connect and discuss my work and potential opportunities!* -->
 
@@ -20,6 +21,7 @@ I am currently a Graduate Research Assistant working with [Dr. Myeong Lee](https
 
 News & Events
 ======
+- [May 2026] Happy to share that I will be joining the Department of Health Administration, Policy and Informatics at George Mason University as a Postdoctoral Researcher in August 2026.
 - [May 2026] Pleased to share that I have been conferred the Ph.D. in Information Technology!
 - [Apr. 2026] Presented our paper, “Disability Misinformation on Facebook: A Comparison of LLM-based Fact-Checking Tools,” at iConference 2026 in Edinburgh, U.K.
 - [Jan. 2026] Thrilled to share that I successfully defended my doctoral dissertation!
