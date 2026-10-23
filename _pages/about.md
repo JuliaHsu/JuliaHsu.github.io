@@ -16,7 +16,7 @@ My research spans Health Informatics, Digital Health Interventions, Information 
 <!-- 🚀 *I'm on the 2026 job market and exploring both academic and industry roles. I’m happy to connect and discuss my work and potential opportunities!* -->
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_HPH_052026.pdf" class="btn btn--primary">Download my CV</a>
+  <a href="{{ base_path }}/files/CV_HPH_102026.pdf" class="btn btn--primary">Download my CV</a>
 </div>
 
 News & Events

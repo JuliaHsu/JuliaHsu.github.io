@@ -49,6 +49,7 @@ Poster Competition (2024)
 
 Work experience
 ======
+* 2026-Present : **Postdoctoral Research Fellow in Health Informatics**, Healthy Aging Innovation Lab, George Mason University
 * 2019-2026: **Graduate Research Assistant**, Community Informatics Lab, George Mason University
   * Developed computational algorithms for large-scale data processing, modeling, and pattern discovery
   * Conducted interdisciplinary research and collaborated with government and community stakeholders
@@ -106,5 +107,5 @@ Informatics Lab, GMU
 * Currently signed in to 43 different slack teams -->
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_HPH_052026.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV_HPH_102026.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
